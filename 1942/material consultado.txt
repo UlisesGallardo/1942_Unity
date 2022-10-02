@@ -1,0 +1,43 @@
+
+Instanciar GameObjects Parentales:
+https://www.youtube.com/watch?v=zkS5lVhkAok
+
+Projectiles in Unity:
+https://www.youtube.com/watch?v=8TqY6p-PRcs
+
+WaitSeconds:
+https://docs.unity3d.com/2019.4/Documentation/ScriptReference/WaitForSeconds.html
+
+Call functions from another scripts:
+https://www.youtube.com/watch?v=ZHr3v8Ewxc0
+
+
+Scripting Gravity:
+https://www.youtube.com/watch?v=hn9lkAua3Vk
+
+Mover correctamente las bullets hacía el enemigo:
+https://answers.unity.com/questions/13085/getting-my-bullet-to-move-in-a-straight-line.html
+
+Ignore Colissions from layers:
+https://www.youtube.com/watch?v=MKjWDtm5eeU
+https://docs.unity3d.com/ScriptReference/Physics.IgnoreLayerCollision.html
+https://docs.unity3d.com/2019.4/Documentation/ScriptReference/Physics2D.IgnoreCollision.html
+
+Follow objects:
+https://www.youtube.com/watch?v=rhoQd6IAtDo
+
+Texto:
+https://www.youtube.com/watch?v=ILONj0mBFPo
+
+
+Scrolling background:
+https://www.youtube.com/watch?v=-6H-uYh80vc
+
+
+Solución Fonts a Text mesh pro:
+https://www.youtube.com/watch?v=W11uv7jf1e4
+
+
+
+Solucinar Error botones:
+https://www.youtube.com/watch?v=_SJ1nf5vGlc&t=61s

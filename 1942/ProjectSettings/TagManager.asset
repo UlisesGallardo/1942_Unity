@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BulletTag
+  - Enemy
+  - Score
+  - HScore
+  - Enemy02
+  - GameOver
+  - TagGO
+  - Pow01
+  - Evade
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - CameraLimits
+  - Water
+  - UI
+  - Foe
+  - Player
+  - IgnoreCollisions
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: IgnoreCollisions
+    uniqueID: 4071026737
+    locked: 0
